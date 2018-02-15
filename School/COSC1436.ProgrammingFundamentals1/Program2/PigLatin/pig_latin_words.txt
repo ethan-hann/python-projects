@@ -1,0 +1,5 @@
+Original Word --> Pig Latin
+---------------------------------------------
+ethan --> ethanyay
+is --> isyay
+awesome --> awesomeyay

@@ -1,0 +1,9 @@
+According to research at an English university, it doesn't matter what order
+the letters in a word are, the only important thing is that the first and last letter
+is at the right place. The rest can be a total mess and you can still read it
+without a problem. This is because we do not read every letter by itself but the
+word as a whole.
+
+Read the attached assignment, complete your program and turn in your program (program2.py), your pseudocode
+and your flowchart. As an alternative worth only 70 points do #3  Pig Latin program on p. 225 of your textbook.
+As a third alternative worth 70 points do #1 Scrambled Words on page 252 of your text.
